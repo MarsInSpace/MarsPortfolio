@@ -3,16 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
+<style>
+    .image {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
+</style>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Hi! My name is Mars.
+I am a Game Design student, currently completing my Bachelor of Arts at HTW Berlin, Germany. Through various Game Jams and Semester Projects I have received a broad, hands-on education.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In game projects I focus on the design and improvement of Game Mechanics, Gamefeel, User Experience, analyzing and implementing the players feedback.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<img class="image" src="../../Assets/me.jpeg" />
