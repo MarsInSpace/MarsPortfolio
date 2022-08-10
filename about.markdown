@@ -16,4 +16,4 @@ I am a Game Design student, currently completing my Bachelor of Arts at HTW Berl
 
 In game projects I focus on the design and improvement of Game Mechanics, Gamefeel, User Experience, analyzing and implementing the players feedback.
 
-<img class="image" src="../../Assets/me.jpeg" />
+<img class="image" src="../me.jpeg" />
